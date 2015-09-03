@@ -1,0 +1,13 @@
+
+
+
+
+ development mode --enabled true 
+
+
+
+// Spring batch Project Creation 
+
+project --topLevelPackage test --projectName testproject6Scheduler
+
+quit

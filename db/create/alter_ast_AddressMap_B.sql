@@ -1,0 +1,2 @@
+ALTER TABLE `ast_AddressMap_B` ADD CONSTRAINT `61AXDURIUHBDKHXHR2B4EQ` FOREIGN KEY (`contactId`) REFERENCES `ast_CoreContacts_T`(`contactId`);
+ALTER TABLE `ast_AddressMap_B` ADD CONSTRAINT `RT9FJPCPFF4KKEWO7LKPG` FOREIGN KEY (`addressId`) REFERENCES `ast_Address_T`(`addressId`);

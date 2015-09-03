@@ -1,0 +1,13 @@
+ 3 src/main/java/test/app/server/bean/BeanAdapter.java
+ 18 src/main/java/test/app/config/WebConfigExtended.java
+ 24 src/main/java/test/app/server/bean/ResponseBean.java
+ 32 src/main/java/test/app/server/businessservice/aspect/BusinessAspect.java
+ 33 src/main/java/test/app/shared/SystemInfo.java
+ 58 src/main/java/test/app/shared/EntityAudit.java
+ 62 src/main/java/test/app/config/StartSchedulerApp.java
+ 74 src/main/java/test/app/server/bean/MessageBean.java
+ 105 src/main/java/test/app/config/WebInitializer.java
+ 139 src/main/java/test/app/server/bean/ProjectBean.java
+ 196 src/main/java/test/app/server/repository/aspect/RepositoryAspect.java
+ 405 src/main/java/test/app/server/service/aspect/ServiceAspect.java
+ 1149 total

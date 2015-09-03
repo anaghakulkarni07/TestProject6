@@ -1,0 +1,1 @@
+ALTER TABLE `ast_State_M` ADD CONSTRAINT `P4GOYNAEZFESK3SDICN4FQ` FOREIGN KEY (`countryId`) REFERENCES `ast_Country_M`(`countryId`);

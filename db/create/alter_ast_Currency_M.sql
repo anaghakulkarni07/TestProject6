@@ -1,0 +1,1 @@
+ALTER TABLE `ast_Currency_M` ADD CONSTRAINT `C41ZCDJKLCQTFABTDZGE5Q` FOREIGN KEY (`countryId`) REFERENCES `ast_Country_M`(`countryId`);
